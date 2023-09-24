@@ -13,7 +13,7 @@
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 🌱 Exploring Technical Content Writing.
+- 🌱 Exploring The World of Coding.
 - ⚡ In my free time I read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-arianhamid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arianhamid)
 
