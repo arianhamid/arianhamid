@@ -13,11 +13,11 @@
 I am a passionate developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> with a focus on front-end technologies, especially SPA. I love building intuitive and interactive user interfaces that provide a seamless user experience. I also have a keen interest in Python and Django technology and its potential to revolutionize various industries.
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- 👀 I’m interested in **MERN Stack** and **Django**.
+- 👀 I am continuously learning and exploring new technologies to expand my skillset and stay up-to-date with the latest trends in the industry.
 - 🌱 Exploring The World of Coding.
 - 💞️ I’m looking to collaborate on MERN Stack and Django projects, leveraging the power of modern web technologies.
 - ⚡ In my free time I read tech articles.
-- 📫 You can reach me at **hamidarianyegane@gmail.com**. Feel free to connect with me for any project or collaboration opportunities. &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-arianhamid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arianhamid)
+- 📫 You can reach me at &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-arianhamid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arianhamid). Feel free to connect with me for any project or collaboration opportunities. 
 
 ---
 
