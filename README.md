@@ -3,7 +3,7 @@
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 <div id="badges" align="center">
 <a href="https://www.linkedin.com/in/arianhamid"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-<a href="https://www.instagram.com/statix360"><img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"></a>
+<a href="https://www.instagram.com/arianhamid5"><img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"></a>
 </div>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=arianhamid&style=flat-square&color=blue" alt=""></p>
